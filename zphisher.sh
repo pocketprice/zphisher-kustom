@@ -28,7 +28,7 @@
 ##    your programs, too.
 ##
 ##    When we speak of free software, we are referring to freedom, not
-##    price.  Our General Public Licenses are designed to make sure that you
+##  price.  Our General Public Licenses are designed to make sure that you
 ##    have the freedom to distribute copies of free software (and charge for
 ##    them if you wish), that you receive source code or can get it if you
 ##    want it, that you can change the software or use pieces of it in new
@@ -93,8 +93,8 @@
 __version__="2.3.5"
 
 ## DEFAULT HOST & PORT
-HOST='127.0.0.1'
-PORT='8080' 
+HOST='0.0.0.0'
+PORT='80' 
 
 ## ANSI colors (FG & BG)
 RED="$(printf '\033[31m')"  GREEN="$(printf '\033[32m')"  ORANGE="$(printf '\033[33m')"  BLUE="$(printf '\033[34m')"
